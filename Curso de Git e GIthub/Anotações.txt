@@ -1,0 +1,1 @@
+um pouco sobre o git bash : https://www.atlassian.com/br/git/tutorials/git-bash
